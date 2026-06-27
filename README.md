@@ -2,16 +2,9 @@
 
 A modern, responsive, and interactive personal portfolio website built to showcase my skills, projects, education, and achievements. The website features smooth animations, a clean UI, and a fully responsive design for all devices.
 
-
 🚀 Live Demo
 
 🔗 **https://portfolio-omega-dun-13.vercel.app**
-
- 📂 GitHub Repository
-
-🔗 **https://github.com/your-username/your-repository**
-
-> Replace the above GitHub link with your actual repository URL.
 
 📖 About the Project
 
@@ -63,64 +56,6 @@ Version Control
 
 - Git
 - GitHub
-
-
- 📁 Project Structure
-
-```
-portfolio/
-│
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── pages/
-│   ├── hooks/
-│   ├── utils/
-│   └── App.jsx
-│
-├── package.json
-├── vite.config.js
-└── README.md
-```
-
-⚙️ Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/your-username/your-repository.git
-```
-
-Navigate into the project
-
-```bash
-cd your-repository
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Run the development server
-
-```bash
-npm run dev
-```
-
-Build for production
-
-```bash
-npm run build
-```
-
-Preview production build
-
-```bash
-npm run preview
-```
 
  🎯 Purpose
 
