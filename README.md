@@ -1,18 +1,142 @@
- http://localhost:5173/
- 
-React + Vite
+🌐 Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, and interactive personal portfolio website built to showcase my skills, projects, education, and achievements. The website features smooth animations, a clean UI, and a fully responsive design for all devices.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🚀 Live Demo
 
-## React Compiler
+🔗 **https://portfolio-omega-dun-13.vercel.app**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+ 📂 GitHub Repository
 
-## Expanding the ESLint configuration
+🔗 **https://github.com/your-username/your-repository**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+> Replace the above GitHub link with your actual repository URL.
+
+📖 About the Project
+
+This portfolio was developed to create a professional online presence where recruiters and developers can easily learn about my background, technical skills, and projects.
+
+The website includes:
+
+- 👋 Hero Section
+- 👨‍💻 About Me
+- 🛠️ Technical Skills
+- 🚀 Featured Projects
+- 🎓 Education
+- 📜 Certifications
+- 📞 Contact Section
+- 🌙 Modern UI with Smooth Animations
+- 📱 Fully Responsive Design
+
+
+✨ Features
+
+- Modern and attractive UI
+- Responsive on Mobile, Tablet, and Desktop
+- Smooth animations and transitions
+- Interactive project showcase
+- Clean component-based architecture
+- Fast loading performance
+- Easy navigation
+- Optimized for deployment
+
+🛠️ Tech Stack
+
+Frontend
+
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+Styling
+
+- Tailwind CSS
+- CSS Animations
+
+ Deployment
+
+- Vercel
+
+Version Control
+
+- Git
+- GitHub
+
+
+ 📁 Project Structure
+
+```
+portfolio/
+│
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── hooks/
+│   ├── utils/
+│   └── App.jsx
+│
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/your-username/your-repository.git
+```
+
+Navigate into the project
+
+```bash
+cd your-repository
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the development server
+
+```bash
+npm run dev
+```
+
+Build for production
+
+```bash
+npm run build
+```
+
+Preview production build
+
+```bash
+npm run preview
+```
+
+ 🎯 Purpose
+
+The purpose of this portfolio is to:
+
+- Showcase my technical skills
+- Display my projects
+- Share my learning journey
+- Create a professional online profile
+- Help recruiters know more about me
+
+-🚀 Deployment
+
+This project is deployed on **Vercel**.
+
+Live Website:
+
+**https://portfolio-omega-dun-13.vercel.app**
+
